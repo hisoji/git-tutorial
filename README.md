@@ -6,3 +6,4 @@
  - feature-C
  - feature-XX
  - feature-ZZZ
+ - feature-hoge
