@@ -3,5 +3,6 @@
 
  - feature-A
  - fix-B
- - faeture-C
- - feature-Z
+ - feature-C
+ - feature-X
+ - feature-ZZ
