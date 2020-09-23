@@ -4,5 +4,5 @@
  - feature-A
  - fix-B
  - feature-C
- - feature-X
- - feature-ZZ
+ - feature-XX
+ - feature-ZZZ
